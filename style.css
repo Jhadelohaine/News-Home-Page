@@ -174,11 +174,11 @@ div.content__img > h2 {
   color: hsl(233, 8%, 79%);
 }
 
-div.content__img > h4 {
+div.content__img > h3 {
   padding: 20px 0px;
 }
 
-div.content__img > h4:hover {
+div.content__img > h3:hover {
   color: hsl(5, 85%, 63%);
   cursor: pointer;
 }
