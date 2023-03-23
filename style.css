@@ -121,18 +121,18 @@ div.border {
   margin-top: 20px;
 }
 
-.__box_content > h4 {
+.__box_content > h3 {
   color: white;
   font-size: 18px;
 }
 
-.__box_content > h4:hover {
+.__box_content > h3:hover {
   color: hsl(35, 77%, 62%);
   cursor: pointer;
 }
 
 .__box_content > p {
-  color: hsl(236, 13%, 42%);
+  color: hsl(236, 6%, 51%);
   padding-top: 10px;
   line-height: 25px;
 }
